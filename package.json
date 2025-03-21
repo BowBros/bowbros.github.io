@@ -1,7 +1,7 @@
 {
-  "name": "web-presentation",
-  "version": "3.0.0",
-  "description": "A web application showcasing an arc-inspired UI presentation.",
+  "name": "bowbros website",
+  "version": "1.0.0",
+  "description": "about the bow bros",
   "main": "src/index.html",
   "scripts": {
     "start": "live-server src",
@@ -10,9 +10,10 @@
   },
   "keywords": [
     "web",
-    "application",
+    "about",
     "ui",
-    "presentation"
+    "form",
+    "stringquartet"
   ],
   "author": "Liem R. Vora",
   "license": "MIT",
